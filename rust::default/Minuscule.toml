@@ -1,0 +1,5 @@
+[[exports]]
+export_type = "Http"
+method = "GET"
+path = "/api/add"
+handler_name = "add"
